@@ -1,1 +1,1 @@
-console.log('no-bug');
+console?.log('no-bug');
